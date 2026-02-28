@@ -66,7 +66,7 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 
 ## 🛣️ 2026 Roadmap
 
-- ✔ Strengthen Backend Architecture
+- ⏳ Strengthen Backend Architecture
 - ⏳ Full Stack Development  
 - ⏳ Polishing Data Structure and Algorithms
 - ⏳ Advanced Machine Learning

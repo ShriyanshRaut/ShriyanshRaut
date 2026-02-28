@@ -28,7 +28,7 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 ---
 ## ⏳ 2026 Countdown
 
-![Days Left in 2026](https://img.shields.io/badge/Days%20Left%20in%202026-306-blue)
+<img src="https://img.shields.io/badge/2026%20Countdown-306%20Days%20Left-0A66C2?style=for-the-badge&logo=clockify&logoColor=white" />
 
 # 🐍 Contribution Snake
 

@@ -26,6 +26,9 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 - 🎯 Goal: Build intelligent systems that scale  
 
 ---
+<p align="center">
+  <img src="https://img.shields.io/badge/Days%20Left%20in%202026-%20loading...-0A192F?style=for-the-badge&logo=clock&logoColor=white" id="yearBadge"/>
+</p>
 
 # 🐍 Contribution Snake
 

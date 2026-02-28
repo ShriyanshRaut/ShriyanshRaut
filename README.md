@@ -38,7 +38,7 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 # 📊 Contribution Activity Graph
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ShriyanshRaut&theme=react-dark&hide_border=true" />
 </p>
 
 ---

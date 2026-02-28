@@ -1,16 +1,75 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Shriyansh Raut</h1>
 
-<!--
-**ShriyanshRaut/ShriyanshRaut** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+AI/ML Focused | Backend Driven
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Backend+Developer;Node.js+%7C+FastAPI;Building+Intelligent+Systems" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- Coding Guy GIF -->
+<p align="center">
+  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="500"/>
+</p>
+
+---
+
+## 🚀 About Me
+
+My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
+
+- 🎓 B.Tech Student  
+- 🧠 Aspiring AI/ML Engineer  
+- ⚙️ Backend Development with Node.js & FastAPI  
+- 🌱 Currently learning Advanced Backend Systems & Machine Learning  
+- 🎯 Goal: Build intelligent systems that scale  
+
+---
+
+# 🐍 Contribution Snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/YOUR_USERNAME/YOUR_USERNAME/output/github-contribution-grid-snake.svg" />
+</p>
+
+---
+
+# 📊 Contribution Activity Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true" />
+</p>
+
+---
+
+# 🐞 Tech Stack
+
+## 💻 Languages
+![JavaScript](https://img.shields.io/badge/🐞_JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/🐞_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/🐞_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/🐞_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+---
+
+## ⚙️ Backend & Frameworks
+![NodeJS](https://img.shields.io/badge/🐞_Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/🐞_FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 🛣️ 2026 Roadmap
+
+- ✔ Strengthen Backend Architecture  
+- ⏳ Advanced Machine Learning  
+- ⏳ System Design Fundamentals  
+- ⏳ Distributed Systems  
+
+---
+
+> Engineering intelligence with discipline and consistency.
+
+---
+
+⭐ Always learning. Always building.

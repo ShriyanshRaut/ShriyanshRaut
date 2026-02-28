@@ -53,6 +53,8 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 ![Python](https://img.shields.io/badge/🐞_Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![HTML](https://img.shields.io/badge/🐞_HTML-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/🐞_CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![C](https://img.shields.io/badge/🔹%20C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/☕%20Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 
 ---
 

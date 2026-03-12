@@ -33,7 +33,7 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 # 🐍 Contribution Snake
 
 <p align="center">
-  <img src="https://github.com/ShriyanshRaut/ShriyanshRaut/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/ShriyanshRaut/ShriyanshRaut/blob/output/snake.svg" />
 </p>
 
 ---

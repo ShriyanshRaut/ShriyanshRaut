@@ -5,9 +5,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Backend+Developer;Node.js+%7C+FastAPI;Building+Intelligent+Systems" />
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Shriyansh%20Raut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
----
 
 ## 🚀 About Me
 

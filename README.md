@@ -31,9 +31,6 @@ My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 ## 🔗 Connect With Me
 
 <p align="left">
-  <a href="https://leetcode.com/YOUR_LEETCODE" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
-  </a>
   <a href="mailto:rautshriyansh@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>

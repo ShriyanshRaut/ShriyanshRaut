@@ -12,7 +12,7 @@
 
 My name is Shriyansh Raut and I am an AI/ML focused, backend driven developer.
 
-- 🎓 B.Tech Student @ Manipal Institute of Technology, Bengaluru
+- 🎓 B.Tech Student at Manipal Institute of Technology, Bengaluru
 - 🧠 Aspiring AI/ML Engineer
 - ⚙️ Backend Development with Node.js & FastAPI
 - 🌱 Currently learning Advanced Backend Systems & Machine Learning

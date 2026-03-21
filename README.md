@@ -6,10 +6,6 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ShriyanshRaut&label=Profile+Views&color=00F7FF&style=for-the-badge" alt="visitor counter" />
-</p>
-
-<p align="center">
   <img src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="500"/>
 </p>
 

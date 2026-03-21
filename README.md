@@ -4,9 +4,8 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=3000&color=00F7FF&center=true&vCenter=true&width=600&lines=Aspiring+AI%2FML+Engineer;Backend+Developer;Node.js+%7C+FastAPI;Building+Intelligent+Systems" />
 </p>
-
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="500"/>
 </p>
 ---
 

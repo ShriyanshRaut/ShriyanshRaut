@@ -6,9 +6,8 @@
 </p>
 
 <p align="center">
-  <img src="https://media.tenor.com/qJ5evVs-_uUAAAAM/coding.gif" width="500"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Shriyansh%20Raut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
 </p>
-
 ---
 
 ## 🚀 About Me

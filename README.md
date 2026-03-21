@@ -6,7 +6,7 @@
 </p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=00F7FF&height=200&section=header&text=Shriyansh%20Raut&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI/ML%20%7C%20Backend%20Developer&descAlignY=55&descAlign=50"/>
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="500"/>
 </p>
 ---
 
